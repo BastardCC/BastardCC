@@ -37,8 +37,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
 </div>
-
-<h3><img src="https://github.com/BastardCC/BastardCC/blob/main/crunchycat-luna.gif?raw=true" alt="I love coding" width="60" object-fit="cover"/>Interested ?</h3>
+<br/>
+<br/>
+<h3><img src="https://github.com/BastardCC/BastardCC/blob/main/crunchycat-luna.gif?raw=true" alt="I love coding" width="60" object-fit="cover"/>  Interested ?</h3>
 <div>
   <p style="font-size: 18px;">
     Want to build the next big thing or just <br />
