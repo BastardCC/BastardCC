@@ -36,6 +36,8 @@
   <h3>🛠️ Tools</h3>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
-
+</div>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github.com/BastardCC/BastardCC/blob/main/crunchycat-luna.gif?raw=true" alt="I love coding" width="100"/>
 </div>
 
