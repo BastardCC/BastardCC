@@ -42,10 +42,10 @@
 <h3><img src="https://github.com/BastardCC/BastardCC/blob/main/crunchycat-luna.gif?raw=true" alt="I love coding" width="60" object-fit="cover"/>  Interested ?</h3>
 <div>
   <p style="font-size: 18px;">
-    Contact me on<a href="https://www.linkedin.com/in/ton-profil/" target="_blank">
+    Contact me on<a href="https://www.linkedin.com/in/aina-rakotoson" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
     </a>
-    <a href="mailto:ton.email@example.com">
+    <a href="mailto:ainanirinarak@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
     </a>
   </p>
