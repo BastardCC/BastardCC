@@ -2,7 +2,7 @@
   <h2>I love coding... like cat love naps</h2>
   <img src="https://github.com/BastardCC/BastardCC/blob/main/cat%20laptop%20GIF.gif?raw=true" alt="I love coding" width="300"/>
 </div>
-<div align="center">
+<div>
 
   <h2>🧰 Tech Stack</h2>
   <p>Here are the tools I use to build cool stuff (and sometimes break it... just to fix it better) 😎</p>
