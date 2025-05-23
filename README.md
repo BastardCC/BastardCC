@@ -37,7 +37,22 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
 </div>
+
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github.com/BastardCC/BastardCC/blob/main/crunchycat-luna.gif?raw=true" alt="I love coding" width="100"/>
+  <div>
+    <p style="font-size: 18px;">
+      Want to build the next big thing or just <br />
+      send me a cat meme? Let’s connect! 😸
+    </p>
+    <p>
+      <a href="https://www.linkedin.com/in/ton-profil/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+      </a>
+      <a href="mailto:ton.email@example.com">
+        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+      </a>
+    </p>
+  </div>  
 </div>
 
